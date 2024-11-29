@@ -1,0 +1,32 @@
+POST http://localhost:3005/user
+Content-Type: application/json
+
+{
+    "name": "july bruno",
+    "email": "july@gmail.com",
+    "password": "julybruno"
+}
+
+###
+
+GET http://localhost:3005/user/4
+
+###
+
+POST http://localhost:3005/auth
+Content-Type: application/json
+
+{
+    "email": "mu@gmail.com",
+    "password": "123456789"
+}
+
+###
+
+POST http://localhost:3005/ia
+Content-Type: application/json
+
+{
+    "prompt": "quais são as 4 reações quimicas inorganicas?",
+    "name": "marina"
+}
