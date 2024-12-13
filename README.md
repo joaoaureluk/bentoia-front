@@ -22,4 +22,13 @@ bun dev
 
 ## Requisitos 
 
-Ter o projeto [Bentoia.3.0](https://github.com/joaoaureluk/bentoia.3.0)
+Ter o projeto [Bentoia.3.0](https://github.com/joaoaureluk/bentoia.3.0) para rodar localmente.
+
+## ✒️ Autores
+
+Desenvolvedor: [João Aureluk Coelho](https://github.com/joaoaureluk) <br>
+Documentação: [July Bruno](https://github.com/Julybrunodev) <br>
+Desenvolvedor/Documentção: [Murilo de Sousa](https://github.com/murilomacieldev)
+
+---
+Com ❤️ por [João Aureluk Coelho](https://github.com/joaoaureluk) 😊
